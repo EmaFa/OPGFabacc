@@ -1,0 +1,96 @@
+﻿
+.nav-item{
+  position: -webkit-sticky;
+  position: sticky;
+  overflow: hidden;
+  font-size:large;
+  text-align: left;
+}
+
+.navbar-brand{
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  width: auto;
+}
+#nav{
+  display: block;
+  padding: auto;
+  margin: auto;
+  overflow: hidden
+}
+  
+
+li a {
+  display: inline-block;
+  font-weight: bolder;
+}
+
+ul a{
+  display: inline-block;
+}
+li a:hover {
+  background-color: lightgray;
+
+}
+
+.active { 
+  border-bottom:rgb(115, 150, 63) 6px solid;
+  background-color:rgba(128, 128, 128, 0.144);
+ 
+ 
+}
+h2{
+  text-align: center;
+
+}
+body{
+  text-align: left;
+  font-size: 20px;
+  font-family: candara;
+}
+
+footer{
+  margin-top: 5px;
+  padding: auto;
+  font-size: medium;
+  font-family:Georgia, 'Times New Roman', Times, serif; 
+  text-align: center;
+  border-top: rgb(115, 150, 63) 4px solid;
+  background-color: rgb(195, 231, 140);
+}
+
+.card{
+	border-color: rgb(115, 150, 63);
+}
+.card-title{
+	margin-top: 10;
+}
+.card-footer{
+	background-color: rgb(195, 231, 140);
+}
+.btn-light:hover{
+	background-color: rgb(115, 150, 63);
+	border-color: rgb(115, 150, 63);
+}
+.btn-light{
+	background-color: rgb(195, 231, 140);
+	border-color: rgb(195, 231, 140);
+}
+
+.adressa
+{
+  display: block;
+  text-align: center;
+}
+.center
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slikacenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
